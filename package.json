@@ -1,0 +1,15 @@
+{
+  "name": "parcel-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "building": "parcel index.html -p 3005"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.9.2"
+  }
+}
